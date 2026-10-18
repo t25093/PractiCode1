@@ -1,0 +1,11 @@
+bundle
+--language
+all
+--output
+"d.txt"
+--sort
+name
+--note
+--remove-empty-lines
+--author
+"cvrr"
