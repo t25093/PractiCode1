@@ -1,0 +1,11 @@
+bundle
+--language
+all
+--output
+"tamar.txt"
+--sort
+name
+--note
+--remove-empty-lines
+--author
+"tamush"

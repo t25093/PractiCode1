@@ -1,0 +1,10 @@
+bundle
+--language
+all
+--output
+"tamar.txt"
+--sort
+name
+--note
+--author
+"tami"
